@@ -1,0 +1,55 @@
+## Day one: Thursday 5 July
+
+I am working on deploying machine learning algorithm that helps predict if breast cancer is cancerous or not.
+
+* I have the data set
+* I have prepared the notebook
+* I have done pre-data processing
+
+### Thoughts: I am just a beginner at this but I am really engaging myself to grow so far so good.
+### Link: <a href = "https://github.com/atwine/100-Days-Of-ML-Code/blob/master/Week%209%20Major%20Project.ipynb">commit</a>
+
+
+## Day two: Friday 6th July
+
+Today I worked on Data processing and feature selection in my cancer project:
+The aim is to find which are the best features that i can use in the machine learning algorithm for the best predictive results
+
+Some of the things I want to do are:
+* Deploy SVM, KNN and KMeans
+* Use PCA to reduce dimensions 
+* Normalize results of the data I have before I deploy the models
+
+<<<<<<< HEAD
+### Link: <a href = "https://github.com/atwine/100-Days-Of-ML-Code/blob/master/Week%209%20Major%20Project.ipynb">commit</a>
+
+### Thoughts: Just really excited to see what I can do over the period that I have spent learning ML
+
+
+## Day three: Sat 7th July 2018
+
+Today I am going to look at deploying Decision tree algorithms for a dataset that I got from Kaggle. This dataset was given by a bank to assist predict which  candidates are able to pay their loans.
+
+* Deploy Decision Tree
+* Make my first submission on kaggle for the results I get
+
+>> #### this is going to be an interesting time, i still feel like I have things mixed up though the other reason why this is the time to make things better.
+
+I am alittle stuck though: how do i extract into csv the information for the kmeans classifier to deal with it? I feel somewhat confused.
+
+
+## Day four: Sun 8th July 2018
+
+Today I watched a tutorial from Raj on implementing linear regression technique from scratch.
+
+I am doing some studying on different algorithms: <a href = "https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/">link</a>
+
+I forked some  github repository to assist me learn more about these algorithm implementations: <a href = "https://github.com/atwine/machine-learning">link</a>
+
+Reviewed machine learning implementations of peers in edx.org
+
+## Day five: Mon 9th July 2018
+
+=======
+### Thoughts: Just really excited to see what I can do over the period that I have spent learning ML
+>>>>>>> parent of efb9162... Day 3
