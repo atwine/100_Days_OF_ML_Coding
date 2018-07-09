@@ -52,4 +52,17 @@ Reviewed machine learning implementations of peers in edx.org
 
 =======
 ### Thoughts: Just really excited to see what I can do over the period that I have spent learning ML
->>>>>>> parent of efb9162... Day 3
+
+Today I am taking time to look through various algorithms as much as possible and also to practice my programming. I had a question on how I could produce a resulting dataset but now I have the answer to it.
+
+### I predict in the near days I will be able to do much more seeing that I have kinda made it through the novice stages.
+
+I have looked at these today: 
+* 1. Linear Regression
+* 2. Logistics regression
+* 3. Got an sklearn cheat sheet which drew a great picture on how the info works.
+* 4. Decision tree algorithm
+* 5. Support Vector Machines
+* 6. Read a chapter collective intelligence.pdf
+
+>> what is amazing is that the decision tree algorithm was able to classify the information 100% correct which is quite amazing in comparison to what i have seen so far.
