@@ -65,4 +65,19 @@ I have looked at these today:
 * 5. Support Vector Machines
 * 6. Read a chapter collective intelligence.pdf
 
->> what is amazing is that the decision tree algorithm was able to classify the information 100% correct which is quite amazing in comparison to what i have seen so far.
+>> what is amazing is that the decision tree algorithm was able to classify the information 100% correct which is quite amazing in comparison to what i have seen so far. 
+
+
+## Day six: Tue 10th July 2018
+
+Today is a continuation of ML algorithms
+* 1. Naive Bayes.
+* 2. KNN.
+* 3. Kmeans.
+* 4. Random Forest.
+* 5. Tuning algorithms <a href= 'https://www.jeremyjordan.me/hyperparameter-tuning/'>Tuning Hyperparamenters</a>
+* 6. Random Forest
+
+I am learning so much, I am glad.
+Today landed on the notion of tuning algorithms, I am getting the clearer picture day by day.
+
