@@ -81,3 +81,19 @@ Today is a continuation of ML algorithms
 I am learning so much, I am glad.
 Today landed on the notion of tuning algorithms, I am getting the clearer picture day by day.
 
+
+## Day 7: Wed 11th July:
+
+Studied: - how to read research a paper by rajraval
+         - how to read math equations
+         - signed up for introduction to mathematical thinking by Stanford Uni
+         
+Hyper-parameter testing:
+* <a href ='http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf'>Link </a>
+* <a href ='http://scikit-learn.org/stable/modules/grid_search.html'>Link </a>
+* <a href ='https://blog.sigopt.com/posts/common-problems-in-hyperparameter-optimization'>Link </a>
+* <a href ='http://betatim.github.io/posts/bayesian-hyperparameter-search/'>Link </a>
+* <a href ='https://thuijskens.github.io/2016/12/29/bayesian-optimisation/'>Link </a>
+* <a href ='https://thuijskens.github.io/2017/05/12/pydata-london/'>Link </a>
+
+        
