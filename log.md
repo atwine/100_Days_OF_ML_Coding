@@ -97,3 +97,10 @@ Hyper-parameter testing:
 * <a href ='https://thuijskens.github.io/2017/05/12/pydata-london/'>Link </a>
 
         
+## Day 8: Thur 12th July:
+
+Today I want to look at parameter tuning and hyper parameter tuning
+ * - <a href = 'http://scikit-learn.org/stable/modules/grid_search.html'>Hyperparameter Tuning</a>
+ * - Dimension reduction Algorithms
+ * - Gradient boosting Algorithm <a href = 'https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/'>Hyper Parameter Tuning XGBoost</a>
+ * - Light Gradient Boosting Algorithm
