@@ -104,3 +104,4 @@ Today I want to look at parameter tuning and hyper parameter tuning
  * - Dimension reduction Algorithms
  * - Gradient boosting Algorithm <a href = 'https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/'>Hyper Parameter Tuning XGBoost</a>
  * - Light Gradient Boosting Algorithm
+ <a href = 'http://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters'> Parameter tuning</a>
