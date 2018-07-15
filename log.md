@@ -105,3 +105,20 @@ Today I want to look at parameter tuning and hyper parameter tuning
  * - Gradient boosting Algorithm <a href = 'https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/'>Hyper Parameter Tuning XGBoost</a>
  * - Light Gradient Boosting Algorithm
  <a href = 'http://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters'> Parameter tuning</a>
+ 
+ 
+ ## Day 9:  Fri 13th July:
+ 
+ Today I forked some work on parameter tuning for XGBoost aglorithms
+ Got some GitHub repos, which I am going through a cell at a time.
+ 
+ ## Day 10-11:  Sat 14th July- Sun 15th July:
+ Studied various articles on handling data:
+ 1- <a href ='https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python' >Cool Article</a>
+ 2- <a href ='https://www.kaggle.com/nanomathias/feature-engineering-importance-testing' >2</a>
+ 3- <a href ='https://www.kaggle.com/asindico/customer-segments-with-pca' >3</a>
+ 4- <a href ='https://www.kaggle.com/dansbecker/cross-validation' >4</a>
+ 5- <a href ='https://www.kaggle.com/willkoehrsen/intro-to-model-tuning-grid-and-random-search' >Hyper parameter tuning</a>
+ 
+ 
+ 
