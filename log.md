@@ -120,5 +120,6 @@ Today I want to look at parameter tuning and hyper parameter tuning
  4- <a href ='https://www.kaggle.com/dansbecker/cross-validation' >4</a>
  5- <a href ='https://www.kaggle.com/willkoehrsen/intro-to-model-tuning-grid-and-random-search' >Hyper parameter tuning</a>
  
+ 6- <a href = 'https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/'>CatBoost</a>
  
  
