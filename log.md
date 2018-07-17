@@ -122,4 +122,12 @@ Today I want to look at parameter tuning and hyper parameter tuning
  
  6- <a href = 'https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/'>CatBoost</a>
  
+ ## Day 12 Mon 16th July:
+ Today concentrated on going through my course: DataScience with Python from edx
+ I also begun on a new course: Mathematical Thinking which will help me catch up with stat when I begin it. I want to take these two courses at the same time. one on Coursera and another on edx both about Math.
  
+ ## Day 13 Mon 17th July:
+ TODAY: I studied this article on the process of Machine learning I documented many steps on what it takes to get good results in the process of ML.
+ 
+ THOUGHTS: I had not idea it was so cumbersome this process, stages of feature engineering and all, its quite hectic but a great learning process.
+   <a href ='https://www.kaggle.com/atwine/start-here-a-gentle-introduction' >Commit</a>
