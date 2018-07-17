@@ -131,3 +131,6 @@ Today I want to look at parameter tuning and hyper parameter tuning
  
  THOUGHTS: I had not idea it was so cumbersome this process, stages of feature engineering and all, its quite hectic but a great learning process.
    <a href ='https://www.kaggle.com/atwine/start-here-a-gentle-introduction' >Commit</a>
+   
+   I recently handed in a submission on kaggle that won me 0.43 percent accuracy, I want to redo it after the manner which i have learnt, then i will gain a better accuracy.
+   I will use xgboost, and do better data analysis on my kaggle dataset.
