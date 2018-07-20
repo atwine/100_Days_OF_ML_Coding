@@ -17,7 +17,7 @@ The aim is to find which are the best features that i can use in the machine lea
 
 Some of the things I want to do are:
 * Deploy SVM, KNN and KMeans
-* Use PCA to reduce dimensions 
+* Use PCA to reduce dimensions
 * Normalize results of the data I have before I deploy the models
 
 <<<<<<< HEAD
@@ -57,7 +57,7 @@ Today I am taking time to look through various algorithms as much as possible an
 
 ### I predict in the near days I will be able to do much more seeing that I have kinda made it through the novice stages.
 
-I have looked at these today: 
+I have looked at these today:
 * 1. Linear Regression
 * 2. Logistics regression
 * 3. Got an sklearn cheat sheet which drew a great picture on how the info works.
@@ -65,7 +65,7 @@ I have looked at these today:
 * 5. Support Vector Machines
 * 6. Read a chapter collective intelligence.pdf
 
->> what is amazing is that the decision tree algorithm was able to classify the information 100% correct which is quite amazing in comparison to what i have seen so far. 
+>> what is amazing is that the decision tree algorithm was able to classify the information 100% correct which is quite amazing in comparison to what i have seen so far.
 
 
 ## Day six: Tue 10th July 2018
@@ -87,7 +87,7 @@ Today landed on the notion of tuning algorithms, I am getting the clearer pictur
 Studied: - how to read research a paper by rajraval
          - how to read math equations
          - signed up for introduction to mathematical thinking by Stanford Uni
-         
+
 Hyper-parameter testing:
 * <a href ='http://jmlr.csail.mit.edu/papers/volume13/bergstra12a/bergstra12a.pdf'>Link </a>
 * <a href ='http://scikit-learn.org/stable/modules/grid_search.html'>Link </a>
@@ -96,7 +96,7 @@ Hyper-parameter testing:
 * <a href ='https://thuijskens.github.io/2016/12/29/bayesian-optimisation/'>Link </a>
 * <a href ='https://thuijskens.github.io/2017/05/12/pydata-london/'>Link </a>
 
-        
+
 ## Day 8: Thur 12th July:
 
 Today I want to look at parameter tuning and hyper parameter tuning
@@ -105,32 +105,50 @@ Today I want to look at parameter tuning and hyper parameter tuning
  * - Gradient boosting Algorithm <a href = 'https://www.analyticsvidhya.com/blog/2016/03/complete-guide-parameter-tuning-xgboost-with-codes-python/'>Hyper Parameter Tuning XGBoost</a>
  * - Light Gradient Boosting Algorithm
  <a href = 'http://xgboost.readthedocs.io/en/latest/parameter.html#general-parameters'> Parameter tuning</a>
- 
- 
+
+
  ## Day 9:  Fri 13th July:
- 
+
  Today I forked some work on parameter tuning for XGBoost aglorithms
  Got some GitHub repos, which I am going through a cell at a time.
- 
- ## Day 10-11:  Sat 14th July- Sun 15th July:
+
+## Day 10-11:  Sat 14th July- Sun 15th July:
  Studied various articles on handling data:
  1- <a href ='https://www.kaggle.com/pmarcelino/comprehensive-data-exploration-with-python' >Cool Article</a>
  2- <a href ='https://www.kaggle.com/nanomathias/feature-engineering-importance-testing' >2</a>
  3- <a href ='https://www.kaggle.com/asindico/customer-segments-with-pca' >3</a>
  4- <a href ='https://www.kaggle.com/dansbecker/cross-validation' >4</a>
  5- <a href ='https://www.kaggle.com/willkoehrsen/intro-to-model-tuning-grid-and-random-search' >Hyper parameter tuning</a>
- 
+
  6- <a href = 'https://www.analyticsvidhya.com/blog/2017/08/catboost-automated-categorical-data/'>CatBoost</a>
- 
- ## Day 12 Mon 16th July:
+
+## Day 12 Mon 16th July:
  Today concentrated on going through my course: DataScience with Python from edx
  I also begun on a new course: Mathematical Thinking which will help me catch up with stat when I begin it. I want to take these two courses at the same time. one on Coursera and another on edx both about Math.
- 
- ## Day 13 Mon 17th July:
+
+## Day 13 Mon 17th July:
  TODAY: I studied this article on the process of Machine learning I documented many steps on what it takes to get good results in the process of ML.
- 
+
  THOUGHTS: I had not idea it was so cumbersome this process, stages of feature engineering and all, its quite hectic but a great learning process.
    <a href ='https://www.kaggle.com/atwine/start-here-a-gentle-introduction' >Commit</a>
-   
+
    I recently handed in a submission on kaggle that won me 0.43 percent accuracy, I want to redo it after the manner which i have learnt, then i will gain a better accuracy.
    I will use xgboost, and do better data analysis on my kaggle dataset.
+
+## Day 14 Wed 18th July
+
+   I am continuing to catch up with strategically learning how to manage the ML process from 0 to hero from the guys who have done it before.
+   I am hoping to get better at using some of these methods for competitions till I am good enough to win some competitions.
+   I haven't finished the first article and there are some few also pending.
+
+## Day 15 Thur  19th July
+  Today I am studying mathematical thinking on Coursera
+  I am also looking into feature creation as a great part of machine learning.
+  I had issues with the work network, did not do much programming today.
+
+## Day 16 Friday  20th July
+
+Today I have some time to look into:
+- Mathematical thinking from Stanford University
+- I am also going to finish my tutorial on feature creation and also machine learning.
+- tomorrow I have a finals exam on python for data DataScience so I have to prepare for it and begin to dive into the next module on math and statistics.
