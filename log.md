@@ -152,3 +152,11 @@ Today I have some time to look into:
 - Mathematical thinking from Stanford University
 - I am also going to finish my tutorial on feature creation and also machine learning.
 - tomorrow I have a finals exam on python for data DataScience so I have to prepare for it and begin to dive into the next module on math and statistics.
+
+## Day 17 Saturday  21th July
+- Earned my certificate in Python for DataScience
+- begun my classes in statistics and probability
+
+
+## Day 18 Monday  23th July
+- looking at feature creation on kaggle as I get better at machine learning algorithms.
