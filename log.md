@@ -160,3 +160,5 @@ Today I have some time to look into:
 
 ## Day 18 Monday  23th July
 - looking at feature creation on kaggle as I get better at machine learning algorithms.
+- [looked at automated feature engineering, featuretools modules](https://www.featurelabs.com/blog/deep-feature-synthesis/)
+- [featuretools](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
