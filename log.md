@@ -162,3 +162,12 @@ Today I have some time to look into:
 - looking at feature creation on kaggle as I get better at machine learning algorithms.
 - [looked at automated feature engineering, featuretools modules](https://www.featurelabs.com/blog/deep-feature-synthesis/)
 - [featuretools](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+
+## Day 19 Tue  24th July
+- read an article on non parametric statistics
+- still studying feature creation but i want to dive into practicing what I learnt on the home loan competition on kaggle also other competitions
+- I am also continuing with my classes on statitics and probability with python, where I am meeting new suprises.
+- scratched the surface on pytorch and neural networks, I may need to learn more about these soon.
+- Automated Hyperparameter tuning using Hyperopt 
+
+###THOUGHTS: in order to be good at this one has to continue learning and practicing the fundamentals of what they know till its part of you.
