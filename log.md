@@ -179,3 +179,10 @@ Today I have some time to look into:
 -[automated hyperparameter tuning](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
 - THOUGHTS: today I learnt that, once you have cleaned your data and prepared it for training, you need to tune your algorithm of choice, and one of the methods you do so is by using a loss function, what a loss function does is it helps you get the correct values of x for a particular function(ml algorithm) where the los function is equal to 0, so these values are then used to train the model if we want to get accuracy.
 [Artificial Neural Networks](https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75)
+
+## Day 21 Wed  26th July
+I have looked at the inner parts of the algorithms but if someone asked me what is SVP, i know how to deploy it but describing it in words is kind of difficult, therefore I am looking at the definitions and getting the bigger picture of some of these Algorithms
+[SVM](https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/)
+[Tree Based Models](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
+[Nive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
+[Ensemble Modeling](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/)
