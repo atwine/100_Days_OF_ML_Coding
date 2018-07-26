@@ -168,6 +168,14 @@ Today I have some time to look into:
 - still studying feature creation but i want to dive into practicing what I learnt on the home loan competition on kaggle also other competitions
 - I am also continuing with my classes on statitics and probability with python, where I am meeting new suprises.
 - scratched the surface on pytorch and neural networks, I may need to learn more about these soon.
-- Automated Hyperparameter tuning using Hyperopt 
+- Automated Hyperparameter tuning using Hyperopt
 
 ###THOUGHTS: in order to be good at this one has to continue learning and practicing the fundamentals of what they know till its part of you.
+
+
+## Day 20 Wed  25th July
+- made some applicationf for data science positions
+- Studied loss function choosing criteria
+-[automated hyperparameter tuning](https://towardsdatascience.com/an-introductory-example-of-bayesian-optimization-in-python-with-hyperopt-aae40fff4ff0)
+- THOUGHTS: today I learnt that, once you have cleaned your data and prepared it for training, you need to tune your algorithm of choice, and one of the methods you do so is by using a loss function, what a loss function does is it helps you get the correct values of x for a particular function(ml algorithm) where the los function is equal to 0, so these values are then used to train the model if we want to get accuracy.
+[Artificial Neural Networks](https://blog.goodaudience.com/artificial-neural-networks-explained-436fcf36e75)
