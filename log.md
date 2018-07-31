@@ -186,3 +186,12 @@ I have looked at the inner parts of the algorithms but if someone asked me what 
 [Tree Based Models](https://www.analyticsvidhya.com/blog/2016/04/complete-tutorial-tree-based-modeling-scratch-in-python/)
 [Nive Bayes](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 [Ensemble Modeling](https://www.analyticsvidhya.com/blog/2015/09/questions-ensemble-modeling/)
+
+## Day 22 Monday  30th July
+- Today i did some basic HTML
+- I want to redo my home loan competition based on the things I have learnt.
+- Watched rajraval video on the kaggle competition on duration of taxis
+
+## Day 23 Tue  31th July 
+Data exploration for my second kaggle handin attempt done today.
+I am also going to dive into feature engineering then try model tuning
