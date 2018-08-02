@@ -192,6 +192,22 @@ I have looked at the inner parts of the algorithms but if someone asked me what 
 - I want to redo my home loan competition based on the things I have learnt.
 - Watched rajraval video on the kaggle competition on duration of taxis
 
-## Day 23 Tue  31th July 
+## Day 23 Tue  31th July
 Data exploration for my second kaggle handin attempt done today.
 I am also going to dive into feature engineering then try model tuning
+
+## Day 24 Wed  1st Aug
+
+Today I am looking into feature engineering for my kaggle competitions
+I am also doing my classes on statistics and probability with Python in my Data Science MicroMasters
+Also reading up some articles on datacamp.com
+Studying Set notation in Python
+
+
+## Day 25 Thur 2nd Aug
+
+Lookng into finalizing deploying my model and handing in some results on to kaggle.
+Made my submission and my model skipped from 0.42 to 0.65 I want to reach at least 0.7,
+
+Thoughts: I think there are some methods I should look into that help modify how my model behaves
+I will soon jump into deep learning, I feel it will make the training process better, so i will use the basic models as the first way I do it then make it better.
