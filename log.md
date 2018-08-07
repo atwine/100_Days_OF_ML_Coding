@@ -228,3 +228,7 @@ Some of the learning links got from Raj's video
 [Link 4](https://www.youtube.com/watch?v=zAULhNrnuL4)
 [Link 5](https://machinelearningmastery.com/logistic-regression-for-machine-learning/)
 [Link 6](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
+
+[Github Link to the code](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
+
+Logistic regression measures the relationship between categorical dependent variables and one or more independent variables, it is more robust than linear regression to outliers in the data
