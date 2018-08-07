@@ -211,3 +211,10 @@ Made my submission and my model skipped from 0.42 to 0.65 I want to reach at lea
 
 Thoughts: I think there are some methods I should look into that help modify how my model behaves
 I will soon jump into deep learning, I feel it will make the training process better, so i will use the basic models as the first way I do it then make it better.
+
+
+## Day 26 Tue 7th Aug
+I have not had my laptop for the last few days so my progress has been slow or none
+
+Today i am continuing my classes on edx statistics and probabiliy with python looking at Set theory
+Watched siraj's video on lgistic regression
