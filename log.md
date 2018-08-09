@@ -244,3 +244,5 @@ Today: I want to
 [Handling Missing Values](https://www.tandfonline.com/doi/full/10.1080/1743727X.2014.979146)
 <br>
 [Error Evaluation](https://www.coursera.org/lecture/machine-learning-projects/single-number-evaluation-metric-wIKkC)
+<br>
+[TPOT](https://github.com/EpistasisLab/tpot) - This is a machine learning algorithm that automates ML by taking in a data set and doing an automated run to provide the best data pipelines that can help in solving the problem.
