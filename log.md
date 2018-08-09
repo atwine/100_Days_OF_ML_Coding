@@ -246,3 +246,4 @@ Today: I want to
 [Error Evaluation](https://www.coursera.org/lecture/machine-learning-projects/single-number-evaluation-metric-wIKkC)
 <br>
 [TPOT](https://github.com/EpistasisLab/tpot) - This is a machine learning algorithm that automates ML by taking in a data set and doing an automated run to provide the best data pipelines that can help in solving the problem.
+[Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/) - I just wanted to really understand what cross validation is about.
