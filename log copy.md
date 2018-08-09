@@ -212,14 +212,7 @@ Made my submission and my model skipped from 0.42 to 0.65 I want to reach at lea
 Thoughts: I think there are some methods I should look into that help modify how my model behaves
 I will soon jump into deep learning, I feel it will make the training process better, so i will use the basic models as the first way I do it then make it better.
 
-Looking to learn better feature creation techniques beginning tomorrow.
-I want to go through some articles on the machine learning project i got on github
 
-<<<<<<< HEAD
-## Day 26 Fri 3rd Aug
-Today I am studying my probability and math for data science
-Later I am studying for the data science project walk through.
-=======
 ## Day 26 Tue 7th Aug
 I have not had my laptop for the last few days so my progress has been slow or none
 
@@ -239,11 +232,3 @@ Some of the learning links got from Raj's video
 [Github Link to the code](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
 
 Logistic regression measures the relationship between categorical dependent variables and one or more independent variables, it is more robust than linear regression to outliers in the data
-
-## Day 27 Thr 9th Aug
-I have just recovered from a PC issue that has taken my 4 days:
-Today this is what I am doing:
->> continue with Will Koerhsen, project follow through
->> finish my cartesian plot set class and see how to move on.
-
->>>>>>> e6883f40355afcb9a4ad030447f5a36ca09d06e0
