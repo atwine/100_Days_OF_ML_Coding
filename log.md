@@ -248,3 +248,5 @@ Today: I want to
 [TPOT](https://github.com/EpistasisLab/tpot) - This is a machine learning algorithm that automates ML by taking in a data set and doing an automated run to provide the best data pipelines that can help in solving the problem.
 <br>
 [Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/) - I just wanted to really understand what cross validation is about.
+<br>
+[Over fitting Vs Underfitting](https://elitedatascience.com/overfitting-in-machine-learning)
