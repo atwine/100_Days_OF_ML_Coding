@@ -35,6 +35,7 @@ Today I am going to look at deploying Decision tree algorithms for a dataset tha
 
 >> #### this is going to be an interesting time, i still feel like I have things mixed up though the other reason why this is the time to make things better.
 
+
 I am alittle stuck though: how do i extract into csv the information for the kmeans classifier to deal with it? I feel somewhat confused.
 
 
@@ -239,3 +240,7 @@ I just recovered from a PC issue, that took my 4 days off:
 Today: I want to 
 1 - Continue through the study on ML projec by will koerhsen
 2 - If possible complete the second module in my statistics class
+
+[Handling Missing Values](https://www.tandfonline.com/doi/full/10.1080/1743727X.2014.979146)
+<br>
+[Error Evaluation](https://www.coursera.org/lecture/machine-learning-projects/single-number-evaluation-metric-wIKkC)
