@@ -232,3 +232,10 @@ Some of the learning links got from Raj's video
 [Github Link to the code](https://towardsdatascience.com/the-logistic-regression-algorithm-75fe48e21cfa)
 
 Logistic regression measures the relationship between categorical dependent variables and one or more independent variables, it is more robust than linear regression to outliers in the data
+
+## Day 27 Thr 9th Aug
+I have just recovered from a PC issue that has taken my 4 days:
+Today this is what I am doing:
+>> continue with Will Koerhsen, project follow through
+>> finish my cartesian plot set class and see how to move on.
+
