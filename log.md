@@ -222,7 +222,7 @@ Watched siraj's video on lgistic regression
 
 Some of the learning links got from Raj's video
 
- More Learning Resources: 
+ More Learning Resources:
 [Link 1 ](https://github.com/awesomedata/awesome-public-datasets)
 [Link 2](http://www.statisticssolutions.com/what-is-logistic-regression/)
 [Link 3](https://codesachin.wordpress.com/2015/08/16/logistic-regression-for-dummies/)
@@ -237,7 +237,7 @@ Logistic regression measures the relationship between categorical dependent vari
 ## Day 27 Thur 9 Aug
 
 I just recovered from a PC issue, that took my 4 days off:
-Today: I want to 
+Today: I want to
 1 - Continue through the study on ML projec by will koerhsen
 2 - If possible complete the second module in my statistics class
 
@@ -250,3 +250,16 @@ Today: I want to
 [Cross Validation](https://machinelearningmastery.com/k-fold-cross-validation/) - I just wanted to really understand what cross validation is about.
 <br>
 [Over fitting Vs Underfitting](https://elitedatascience.com/overfitting-in-machine-learning)
+
+## Day 28 Friday 10th Aug
+Today I am reading some articles as has become my habit since I begun the challenge.
+I am also completing my classes on sets specifically cartesian products.
+
+#Note Time Series:
+### Found some articles on time series I need to read later
+[](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+<br>
+[](https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/)
+<br>
+[](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
+<br>
