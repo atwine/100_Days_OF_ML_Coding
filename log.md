@@ -263,3 +263,8 @@ I am also completing my classes on sets specifically cartesian products.
 <br>
 [](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
 <br>
+
+
+## Day 29 Friday 13th Aug
+I have gone through the class on sets and done the programming excercises too.
+I want to deploy TPOT for the Home Credit Default Risk ML Challenge.
