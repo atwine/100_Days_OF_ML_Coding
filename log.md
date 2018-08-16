@@ -265,11 +265,11 @@ I am also completing my classes on sets specifically cartesian products.
 <br>
 
 
-## Day 29 Friday 13th Aug
+## Day 29 Monday 13th Aug
 I have gone through the class on sets and done the programming excercises too.
 I want to deploy TPOT for the Home Credit Default Risk ML Challenge.
 
-## Day 30 Friday 14th Aug
+## Day 30 Tue 14th Aug
 Continue to deploy the TPOT model for autoML
 Submit a file to the kaggle competition to see how the TPOT module helps out in ML
 [Commit](https://www.kaggle.com/atwine/home-credit-default-risk-using-tpot)
@@ -277,3 +277,16 @@ Submit a file to the kaggle competition to see how the TPOT module helps out in 
 Completed my AWS account for machine learning and I run my instance for TPOT, I will also run my instance for featuretools later.
 
 Practiced deploying an instance on AWS
+
+## Day 31 Wed 15th Aug
+
+I run multiple instances of T, it has given me several pipelines
+
+Today i want to run them all and see what results they give me in comparison with what I already submitted in the Kaggle competition
+
+
+## Day 32 Thursday 15th Aug
+
+Today I run the instances that i had run in TPOT
+I did not realize any improvement in what I submitted after using tpot
+I suspect i did not use it well, because I see tendencies of overfitting
