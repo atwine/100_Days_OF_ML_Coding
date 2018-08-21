@@ -257,11 +257,11 @@ I am also completing my classes on sets specifically cartesian products.
 
 #Note Time Series:
 ### Found some articles on time series I need to read later
-[](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
+[1](https://machinelearningmastery.com/time-series-forecasting-methods-in-python-cheat-sheet/)
 <br>
-[](https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/)
+[2](https://machinelearningmastery.com/taxonomy-of-time-series-forecasting-problems/)
 <br>
-[](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
+[3](https://machinelearningmastery.com/how-to-develop-a-skilful-time-series-forecasting-model/)
 <br>
 
 
@@ -290,3 +290,20 @@ Today i want to run them all and see what results they give me in comparison wit
 Today I run the instances that i had run in TPOT
 I did not realize any improvement in what I submitted after using tpot
 I suspect i did not use it well, because I see tendencies of overfitting
+
+## Day 33 Sunday 19th Aug
+
+Today I set up a repository for our school of AI on github so we can keep in touch with all we do.
+
+## Day 34 Mon 20th Aug
+
+Today I am finalizing with some ML methods, I want to quickly jump into Deep learning on fast.ai
+I want to do one more round of Jupyter notebook and hand in with 0.7 accuracy just to go through the processing
+I want to learn to use featuretools
+
+
+## Day 35 Tue 21th Aug
+
+Studying about deep feature synthesis under feature featuretools [Link](https://www.featurelabs.com/blog/deep-feature-synthesis/)
+
+THOUGHTS: mastering this feature engineering thing is quite something, I may need to give it some more time than I expected. I landed on some notebooks from the featuretools lab. They are a handful
