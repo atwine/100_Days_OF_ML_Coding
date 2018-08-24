@@ -307,3 +307,32 @@ I want to learn to use featuretools
 Studying about deep feature synthesis under feature featuretools [Link](https://www.featurelabs.com/blog/deep-feature-synthesis/)
 
 THOUGHTS: mastering this feature engineering thing is quite something, I may need to give it some more time than I expected. I landed on some notebooks from the featuretools lab. They are a handful
+
+## Day 36 Wed 22th Aug
+
+Today I am dealing with featuretools, studying it up a bit and implementing it because I want to begin on Deep Learning tomorrow.
+
+I am going to follow the set up by Mr. willkoehrsen on Kaggle.
+
+I am also looking at manual feature engineering from the same teacher.
+
+## Day 37 Wed 23th Aug
+
+Caught up with loads of work:
+
+Read some articles on machine learning, learning never stops. willkoehrsen again with some nice articles I can work with.
+
+## Day 38 Wed 24th Aug
+
+Today I am going to practice with the Titanic dataset all that I have been learning.
+I am going to do:
+1- Data analysis
+2- Finding missing Values
+3- Encoding missing Values
+4- Finding how features relate
+5- Feature engineering
+6- Deploying base models
+7- handing in the csv after practice.
+
+Finished today's tasks and got my ML model to predict at 0.7 accuracy
+I am proud because i went through the thing myself, I think I am now learning the process more and more
