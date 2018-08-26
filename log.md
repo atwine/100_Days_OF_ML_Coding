@@ -336,3 +336,10 @@ I am going to do:
 
 Finished today's tasks and got my ML model to predict at 0.7 accuracy
 I am proud because i went through the thing myself, I think I am now learning the process more and more
+
+Articles read today:
+
+# Articles to Remember
+[Article one on  Costa Rica poverty](https://medium.com/@williamkoehrsen/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
+[Second Part all by willkoehrsen](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-two-2773bd52daf0)
+[autoML](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
