@@ -343,3 +343,29 @@ Articles read today:
 [Article one on  Costa Rica poverty](https://medium.com/@williamkoehrsen/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-one-1977dd701dbc)
 [Second Part all by willkoehrsen](https://towardsdatascience.com/a-data-science-for-good-machine-learning-project-walk-through-in-python-part-two-2773bd52daf0)
 [autoML](https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219)
+
+## Day 39 Mon 27th Aug
+
+Today I am finalizing my work with feature generating with willkoehrsen then i am jumping into deep Learning.
+I am going to start classes on fast.ai and learn step by step deep learning.
+
+Started lesson one: [link](http://course.fast.ai/lessons/lesson1.html)
+
+Very important article teaching feature tools (link)[https://towardsdatascience.com/automated-feature-engineering-in-python-99baf11cc219]
+
+
+# Things to look at: recursive feature selection, used to reduce dimensions on data.
+
+## Day 40 Tue 28th Aug
+Today i am taking an aerial look at deep learning as taught by fast.ai
+
+This teaching will help me in competing in the upcoming competition on kaggle, detecting disease.
+
+## Day 41 Wed 28th Aug
+
+Today I got confused honestly by cross validation, model selection model tuning so i decided to get back to basics with this guy [link](https://github.com/justmarkham/scikit-learn-videos) I need to understand the full picture of the  ML process I haven't seen it yet clearly.
+
+
+## Day 42 Fri 3s1t Aug
+
+Today I want to continue my class after runnin a cnn that will recognize flowers
