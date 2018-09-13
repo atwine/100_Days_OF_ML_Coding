@@ -369,3 +369,12 @@ Today I got confused honestly by cross validation, model selection model tuning 
 ## Day 42 Fri 3s1t Aug
 
 Today I want to continue my class after runnin a cnn that will recognize flowers
+
+## Day 43 Sat 8 Sept
+Watched Online kaggle competition by siraj really engaging
+Learnt on how to get the kaggle data into google colab
+Read book on deep learning, just doing the beginning parts as of now.
+
+## Day 44 Thur 13 Sept
+Begun on Siraj move 37 course.
+Did some basics of reinforcement learning, Markov Decision Process. Quite interesting.
