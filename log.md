@@ -378,3 +378,15 @@ Read book on deep learning, just doing the beginning parts as of now.
 ## Day 44 Thur 13 Sept
 Begun on Siraj move 37 course.
 Did some basics of reinforcement learning, Markov Decision Process. Quite interesting.
+
+## Day 45 Fri 14 Sept
+Reading articles on deep learning:
+[Deep Learning for Time Series Forecasting
+](https://machinelearningmastery.com/deep-learning-for-time-series-forecasting/)
+<br>
+[How to Develop a Reusable Framework to Spot-Check Algorithms in Python](https://machinelearningmastery.com/spot-check-machine-learning-algorithms-in-python/)
+<br>
+[A Gentle Introduction to a Standard Human Activity Recognition Problem](https://machinelearningmastery.com/how-to-load-and-explore-a-standard-human-activity-recognition-problem/)
+<br>
+[
+Indoor Movement Time Series Classification with Machine Learning Algorithms](https://machinelearningmastery.com/indoor-movement-time-series-classification-with-machine-learning-algorithms/)
