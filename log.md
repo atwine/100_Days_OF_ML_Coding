@@ -390,3 +390,10 @@ Reading articles on deep learning:
 <br>
 [
 Indoor Movement Time Series Classification with Machine Learning Algorithms](https://machinelearningmastery.com/indoor-movement-time-series-classification-with-machine-learning-algorithms/)
+
+## Day 46 Wed 19 Sept
+I am taking some insights on machine learning today we are looking at: permutation importance helps in measuring how important a feature is to a dataset and its power to help predictions. If we alter a feature and the loss function or accuracy deteriorates then it will tell us how important that feature is. Ideally we loop through all the features and find which one are the most important for predicting value.
+
+These are the articles I read: [Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights)
+<br>
+[The Use of Permutation: Use Cases](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)
