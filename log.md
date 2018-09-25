@@ -397,3 +397,23 @@ I am taking some insights on machine learning today we are looking at: permutati
 These are the articles I read: [Permutation Importance](https://www.kaggle.com/dansbecker/permutation-importance?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights)
 <br>
 [The Use of Permutation: Use Cases](https://www.kaggle.com/dansbecker/use-cases-for-model-insights)
+
+
+## Day 47 Thur 20 Sept
+Today I am looking at lesson two following yesterday
+[Partial Dependence](https://www.kaggle.com/dansbecker/partial-plots?utm_medium=email&utm_source=mailchimp&utm_campaign=ml4insights)
+
+This talks about how a feature effects a model, by altering a feature value in a fitted model one can see how it affects the model.
+
+## Day 48 Fri 21 Sept
+I am still finalizing with partial dependency in data analysis. Its still quite confusing for me to understand but I am pushing through before I move on to the next lesson.
+
+I was wondering how to deal with two coordinate values in part of the assignment. When i googled the best spatial libraries I came up with `GeoPandas` I have downloaded the sample notebooks and I am going to look into it as much as I can.
+
+I have learnt that in order to be an effective DataScientist one has to be able to manipulate all sorts of data structures. Tables, images, spatial data, Health data because they all have different formats that they support.
+
+## Day 49 Tue 25 Sept
+Today I am taking some time off to look through move 37.
+I am looking at the dopamine information
+Doing week two of move 37 course
+Also I will look at Qlearning for trading.
