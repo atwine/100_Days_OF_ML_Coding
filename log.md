@@ -417,3 +417,15 @@ Today I am taking some time off to look through move 37.
 I am looking at the dopamine information
 Doing week two of move 37 course
 Also I will look at Qlearning for trading.
+
+## Day 50 Thr 27 Sept
+Today I am going through a basic introduction to python for DataScience from lynda.com I want to master the basics.
+I am relooking at pandas and I am happy to learn a few new things.
+I learnt some new things about numpy and pandas.
+In numpy I leant about the record array and the datetime function.
+In pandas I learnt about mulindexing, which helps you analyze data on a different view, it really helps deal with data by viewing its structure well.
+
+## Day 51 Fri 28 Sept
+Today I landed on a page of CSS: (page)[www.quackit.com]
+I want to look closely at the tutorial so I can learn some things because I will need it later in my business.
+I also want to look at a new course from lynda on statistics in data science, hypothesis testing e.t.c
