@@ -430,6 +430,7 @@ Today I landed on a page of CSS: (page)[www.quackit.com]
 I want to look closely at the tutorial so I can learn some things because I will need it later in my business.
 I had been suffering wondering how they make responsive sites now I know (This link will help in the future)[https://www.quackit.com/css/grid/tutorial/]
 
-## Day 52 Mon 1 Oct 
+## Day 52 Mon 1 Oct
 Today I want to look at some notebooks talking about linux command line this will help me to get better at using the os module in python.
 I also want to look at a new course from lynda on statistics in data science, hypothesis testing e.t.c
+Looked at the os module in python. I need to learn some Things
