@@ -434,3 +434,22 @@ I had been suffering wondering how they make responsive sites now I know (This l
 Today I want to look at some notebooks talking about linux command line this will help me to get better at using the os module in python.
 I also want to look at a new course from lynda on statistics in data science, hypothesis testing e.t.c
 Looked at the os module in python. I need to learn some Things
+
+## Day 53 Mon 2 Oct
+Today I am going to look through the introductory modules on python as I prepare to conclude by back to basics week. I want to get involved in finishing the courses I begun on Edx.org on machine learning and also statistics.
+
+## Day 54 & 55 Wed 3 Oct & Thur 4 Oct
+These two days I went through an introductory course on python for machine learning.
+I was going through to brush up on my basic skills but also we are going to be using these notes when teaching the school of AI come Frid 12 Oct 2018: The first day and launch.
+
+## Day 56 Fri 5 Oct
+Today I am looking at matplotlib, revision.
+
+## Day 57 Mon 8 Oct
+There are many lessons on plotting I am going through all of them.
+So much information to be dealt with.
+
+## Day 58 Mon 10 Oct
+Today I am going to look at time series.
+Time series, I have always wanted to know how these time series work. They are quite critical in some data sets its a good revision.
+I think they will make it easier for me to work with time sensitive data the next time I interact with it.
