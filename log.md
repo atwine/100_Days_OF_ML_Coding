@@ -453,3 +453,11 @@ So much information to be dealt with.
 Today I am going to look at time series.
 Time series, I have always wanted to know how these time series work. They are quite critical in some data sets its a good revision.
 I think they will make it easier for me to work with time sensitive data the next time I interact with it.
+
+## Day 59 Wed 17 Oct
+Today I am looking through group by in python so I can better understand how it works.
+I have also taken some time to look through pivot tables and what they do in excel, thi is because I found the same  topic in python. I did not want to jump in live. I see its a very important concept in slicing and dicing the datas.
+
+## Day 60 Fri 19 Oct
+Today I  finished up with the training on basics of python.
+I was doing this as a reminder of all the things I have learned over the period which I was doing data science.
