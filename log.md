@@ -461,3 +461,10 @@ I have also taken some time to look through pivot tables and what they do in exc
 ## Day 60 Fri 19 Oct
 Today I  finished up with the training on basics of python.
 I was doing this as a reminder of all the things I have learned over the period which I was doing data science.
+
+## Day 61 Mon 22 Oct
+- I am looking at cross validation. It is a wonderful concept.
+- Originally I was confused about its application but now I understand it well.
+- I am also looking at parameter Tuning
+- Classification metrics
+- Grid grid_search
